@@ -1,0 +1,12 @@
+sklearn
+pandas
+numpy
+os
+fastapi
+uvicorn
+gunicorn
+google.generativeai
+joblib
+typing
+pydantic
+streamlit
